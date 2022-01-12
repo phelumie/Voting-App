@@ -1,0 +1,20 @@
+.form-check{
+    min-height: 0;
+}
+
+.img{
+    padding-right: 1rem;
+    width: 8rem;
+    height: 8rem;
+    float: left;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+.clear{
+    clear: both;
+}
+form{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(70,95,252,0.5157660476299895) 100%);}
